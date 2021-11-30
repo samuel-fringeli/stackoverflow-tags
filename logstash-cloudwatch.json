@@ -1,0 +1,1 @@
+{"items":[{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"logstash"},{"has_synonyms":true,"is_moderator_only":false,"is_required":false,"count":1,"name":"amazon-cloudwatch"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"logstash-cloudwatch"}],"has_more":false,"quota_max":10000,"quota_remaining":2854}

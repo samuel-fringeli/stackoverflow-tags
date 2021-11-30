@@ -1,0 +1,1 @@
+{"items":[{"has_synonyms":true,"is_moderator_only":false,"is_required":false,"count":1,"name":"mysql"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"mariadb"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"json-search"}],"has_more":false,"quota_max":10000,"quota_remaining":2250}

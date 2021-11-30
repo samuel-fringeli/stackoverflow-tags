@@ -1,0 +1,1 @@
+{"items":[{"has_synonyms":true,"is_moderator_only":false,"is_required":false,"count":1,"name":"maven"},{"has_synonyms":true,"is_moderator_only":false,"is_required":false,"count":1,"name":"amazon-s3"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"beanstalk-maven-plugin"}],"has_more":false,"quota_max":10000,"quota_remaining":3964}
