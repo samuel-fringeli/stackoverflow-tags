@@ -1,1 +1,1 @@
-{"error_id":502,"error_message":"Violation of backoff parameter","error_name":"throttle_violation"}
+{"items":[{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":5,"name":"terraform"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":5,"name":"terraspace"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"terraform-provider-aws"},{"has_synonyms":false,"is_moderator_only":false,"is_required":false,"count":1,"name":"terragrunt"}],"has_more":false,"quota_max":10000,"quota_remaining":6639}
